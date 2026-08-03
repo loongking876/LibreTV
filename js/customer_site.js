@@ -2,6 +2,10 @@ const CUSTOMER_SITES = {
     qiqi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
+    },
+    heimuer: {
+        api: "https://json.heimuer.xyz/api.php/provide/vod",
+        name: "黑木耳资源"
     }
 };
 
