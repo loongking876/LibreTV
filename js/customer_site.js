@@ -4,7 +4,7 @@ const CUSTOMER_SITES = {
         name: "樱花资源"
     },
 
-    1080zyku: {
+    zyku: {
         api: "http://api.1080zyku.com/inc/api.php/provide/vod",
         name: "优质资源库"
     },
