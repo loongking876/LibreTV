@@ -187,6 +187,10 @@ const CUSTOMER_SITES = {
     qw: {
         api: "https://www.jhyrjp.com/api.php/provide/vod",
         name: "影视资源"
+    },
+    sanliuling: {
+        api: 'https://360zy.com/api.php/provide/vod',
+        name: '360影视'
     }
 };
 
