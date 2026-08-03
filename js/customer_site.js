@@ -7,10 +7,6 @@ const CUSTOMER_SITES = {
         api: "https://json.heimuer.xyz/api.php/provide/vod",
         name: "黑木耳资源"
     },
-    yinghua: {
-        api: "https://m3u8.apiyhzy.com/api.php/provide/vod",
-        name: "樱花资源"
-    },
     360zy: {
         api: "https://360zy.com/api.php/provide/vod",
         name: "360资源"
